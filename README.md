@@ -29,4 +29,4 @@ This project demonstrates a simple implementation of image steganography using P
   ```
 
 ## Screenshot
-![Image](https://github.com/user-attachments/assets/e71926fa-fb8e-43f1-917e-ac48a23e4a33)
+![Image]()
