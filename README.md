@@ -48,9 +48,6 @@ Make sure you have the following installed:
 
 ---
 
-## 📸 Preview
-
-(Include screenshots showcasing the UI for encryption and decryption)
 
 ---
 
